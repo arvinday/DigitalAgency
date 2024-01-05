@@ -3383,6 +3383,6 @@ input.inputerror, textarea.inputerror, select.inputerror {
 }
 
 
-}
-.hide-cursor: #ffffff;
+.hide-cursor {
+color: #ffffff;
 {
