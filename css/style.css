@@ -3381,3 +3381,11 @@ input.inputerror, textarea.inputerror, select.inputerror {
         left: 43%;
     }
 }
+
+/* ===================================
+    Custom Code Added By Arvind
+====================================== */
+
+h1.hide-cursor {
+    color: #ffffff;
+}
